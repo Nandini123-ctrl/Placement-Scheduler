@@ -1,0 +1,7 @@
+CompanyID,CompanyName,CGPACutoff,MaxSlots,TargetDepartment
+C01,TechCorp,7.3,15,ECE
+C02,InnoSoft,7.8,30,CSE
+C03,DataVantage,7.3,16,ECE
+C04,AlphaSolutions,6.8,18,EEE
+C05,NextGen Systems,7.9,18,EEE
+C06,CodeCraft,7.4,22,CSE

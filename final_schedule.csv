@@ -1,0 +1,81 @@
+StudentID,StudentName,CompanyID,CompanyName,SlotID,Day,Time
+S002,Sneha Patel,C01,TechCorp,SL001,Day 1,09:00 - 10:00
+S012,Aarav Das,C01,TechCorp,SL001,Day 1,09:00 - 10:00
+S014,Rohan Iyer,C01,TechCorp,SL001,Day 1,09:00 - 10:00
+S015,Aarav Das,C01,TechCorp,SL001,Day 1,09:00 - 10:00
+S024,Arjun Kumar,C01,TechCorp,SL001,Day 1,09:00 - 10:00
+S029,Aarav Reddy,C01,TechCorp,SL001,Day 1,09:00 - 10:00
+S032,Neha Mehta,C01,TechCorp,SL001,Day 1,09:00 - 10:00
+S035,Vikram Gupta,C01,TechCorp,SL001,Day 1,09:00 - 10:00
+S041,Priya Verma,C01,TechCorp,SL001,Day 1,09:00 - 10:00
+S046,Pooja Gupta,C01,TechCorp,SL001,Day 1,09:00 - 10:00
+S048,Pooja Sharma,C01,TechCorp,SL001,Day 1,09:00 - 10:00
+S054,Vikram Nair,C01,TechCorp,SL001,Day 1,09:00 - 10:00
+S056,Arjun Iyer,C01,TechCorp,SL001,Day 1,09:00 - 10:00
+S059,Pooja Gupta,C01,TechCorp,SL001,Day 1,09:00 - 10:00
+S077,Vikram Kumar,C01,TechCorp,SL001,Day 1,09:00 - 10:00
+S009,Priya Iyer,C02,InnoSoft,SL001,Day 1,09:00 - 10:00
+S016,Priya Das,C02,InnoSoft,SL001,Day 1,09:00 - 10:00
+S022,Pooja Nair,C02,InnoSoft,SL001,Day 1,09:00 - 10:00
+S036,Sneha Iyer,C02,InnoSoft,SL001,Day 1,09:00 - 10:00
+S039,Pooja Das,C02,InnoSoft,SL001,Day 1,09:00 - 10:00
+S045,Aarav Iyer,C02,InnoSoft,SL001,Day 1,09:00 - 10:00
+S052,Pooja Patel,C02,InnoSoft,SL001,Day 1,09:00 - 10:00
+S061,Sneha Kumar,C02,InnoSoft,SL001,Day 1,09:00 - 10:00
+S074,Sneha Reddy,C02,InnoSoft,SL001,Day 1,09:00 - 10:00
+S078,Ananya Sharma,C02,InnoSoft,SL001,Day 1,09:00 - 10:00
+S086,Aarav Mehta,C02,InnoSoft,SL001,Day 1,09:00 - 10:00
+S089,Priya Iyer,C02,InnoSoft,SL001,Day 1,09:00 - 10:00
+S002,Sneha Patel,C03,DataVantage,SL002,Day 1,10:00 - 11:00
+S012,Aarav Das,C03,DataVantage,SL002,Day 1,10:00 - 11:00
+S014,Rohan Iyer,C03,DataVantage,SL002,Day 1,10:00 - 11:00
+S015,Aarav Das,C03,DataVantage,SL002,Day 1,10:00 - 11:00
+S024,Arjun Kumar,C03,DataVantage,SL002,Day 1,10:00 - 11:00
+S029,Aarav Reddy,C03,DataVantage,SL002,Day 1,10:00 - 11:00
+S032,Neha Mehta,C03,DataVantage,SL002,Day 1,10:00 - 11:00
+S035,Vikram Gupta,C03,DataVantage,SL002,Day 1,10:00 - 11:00
+S041,Priya Verma,C03,DataVantage,SL002,Day 1,10:00 - 11:00
+S046,Pooja Gupta,C03,DataVantage,SL002,Day 1,10:00 - 11:00
+S048,Pooja Sharma,C03,DataVantage,SL002,Day 1,10:00 - 11:00
+S054,Vikram Nair,C03,DataVantage,SL002,Day 1,10:00 - 11:00
+S056,Arjun Iyer,C03,DataVantage,SL002,Day 1,10:00 - 11:00
+S059,Pooja Gupta,C03,DataVantage,SL002,Day 1,10:00 - 11:00
+S077,Vikram Kumar,C03,DataVantage,SL002,Day 1,10:00 - 11:00
+S084,Aarav Sharma,C03,DataVantage,SL002,Day 1,10:00 - 11:00
+S004,Arjun Das,C04,AlphaSolutions,SL001,Day 1,09:00 - 10:00
+S007,Ananya Gupta,C04,AlphaSolutions,SL001,Day 1,09:00 - 10:00
+S008,Karan Sharma,C04,AlphaSolutions,SL001,Day 1,09:00 - 10:00
+S023,Pooja Sharma,C04,AlphaSolutions,SL001,Day 1,09:00 - 10:00
+S025,Vikram Gupta,C04,AlphaSolutions,SL001,Day 1,09:00 - 10:00
+S026,Ananya Das,C04,AlphaSolutions,SL001,Day 1,09:00 - 10:00
+S037,Karan Verma,C04,AlphaSolutions,SL001,Day 1,09:00 - 10:00
+S040,Arjun Gupta,C04,AlphaSolutions,SL001,Day 1,09:00 - 10:00
+S053,Neha Patel,C04,AlphaSolutions,SL001,Day 1,09:00 - 10:00
+S066,Sneha Das,C04,AlphaSolutions,SL001,Day 1,09:00 - 10:00
+S071,Rohan Reddy,C04,AlphaSolutions,SL001,Day 1,09:00 - 10:00
+S072,Ananya Mehta,C04,AlphaSolutions,SL001,Day 1,09:00 - 10:00
+S082,Aarav Gupta,C04,AlphaSolutions,SL001,Day 1,09:00 - 10:00
+S088,Ananya Verma,C04,AlphaSolutions,SL001,Day 1,09:00 - 10:00
+S093,Pooja Reddy,C04,AlphaSolutions,SL001,Day 1,09:00 - 10:00
+S096,Sneha Verma,C04,AlphaSolutions,SL001,Day 1,09:00 - 10:00
+S008,Karan Sharma,C05,NextGen Systems,SL002,Day 1,10:00 - 11:00
+S023,Pooja Sharma,C05,NextGen Systems,SL002,Day 1,10:00 - 11:00
+S026,Ananya Das,C05,NextGen Systems,SL002,Day 1,10:00 - 11:00
+S037,Karan Verma,C05,NextGen Systems,SL002,Day 1,10:00 - 11:00
+S066,Sneha Das,C05,NextGen Systems,SL002,Day 1,10:00 - 11:00
+S072,Ananya Mehta,C05,NextGen Systems,SL002,Day 1,10:00 - 11:00
+S093,Pooja Reddy,C05,NextGen Systems,SL002,Day 1,10:00 - 11:00
+S096,Sneha Verma,C05,NextGen Systems,SL002,Day 1,10:00 - 11:00
+S009,Priya Iyer,C06,CodeCraft,SL002,Day 1,10:00 - 11:00
+S016,Priya Das,C06,CodeCraft,SL002,Day 1,10:00 - 11:00
+S022,Pooja Nair,C06,CodeCraft,SL002,Day 1,10:00 - 11:00
+S036,Sneha Iyer,C06,CodeCraft,SL002,Day 1,10:00 - 11:00
+S039,Pooja Das,C06,CodeCraft,SL002,Day 1,10:00 - 11:00
+S045,Aarav Iyer,C06,CodeCraft,SL002,Day 1,10:00 - 11:00
+S052,Pooja Patel,C06,CodeCraft,SL002,Day 1,10:00 - 11:00
+S061,Sneha Kumar,C06,CodeCraft,SL002,Day 1,10:00 - 11:00
+S068,Vikram Das,C06,CodeCraft,SL002,Day 1,10:00 - 11:00
+S074,Sneha Reddy,C06,CodeCraft,SL002,Day 1,10:00 - 11:00
+S078,Ananya Sharma,C06,CodeCraft,SL002,Day 1,10:00 - 11:00
+S086,Aarav Mehta,C06,CodeCraft,SL002,Day 1,10:00 - 11:00
+S089,Priya Iyer,C06,CodeCraft,SL002,Day 1,10:00 - 11:00
